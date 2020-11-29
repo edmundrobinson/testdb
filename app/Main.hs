@@ -7,4 +7,4 @@ main = do
   print "Hello"
   conn <- connectDB
   initialiseDB conn
-  print "World"
+  print "World!"
